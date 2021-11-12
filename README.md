@@ -1,7 +1,7 @@
 # image-test
 
 ## jpeg
-![Cute dog](https://curriculum-content.s3.amazonaws.com/cute-dog.jpeg)
+![Cute dog](https://curriculum-content.s3.amazonaws.com/dogs/cute-dog.jpeg)
 
 ## png
 ![Black dog](https://curriculum-content.s3.amazonaws.com/black-dog.png)
